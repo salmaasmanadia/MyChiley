@@ -43,7 +43,7 @@ Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk men
 <br>   
 
 | Kelebihan | Kekurangan |
-| :-: | :-: |
+| --- | --- |
 | + Dapat mendeteksi lebih banyak jenis tanaman | - Wide range of variants sehingga sulit mendeteksi macam-macam |
 | + Terdapat fitur monitoring lahan | -  |
 | + Ada fitur diagnosis & saran treatment | -  |
