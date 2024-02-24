@@ -19,15 +19,15 @@ MyChiley
 Aplikasi web
 
 ### Latar Belakang & Permasalahan
-Latar Belakang: 
+Latar Belakang: Cabai adalah salah satu komoditas penting di Indonesia dan banyak digunakan dalam berbagai masakan. Namun, produksi cabai sering terganggu oleh berbagai penyakit yang menyerang tanaman ini. Penyakit ini dapat merusak tanaman dan mengakibatkan gagal panen yang berdampak pada ekonomi. Oleh karena itu, deteksi dini penyakit pada tanaman cabai sangat penting.
 
 ### Rumusan Permasalahan
 Rumusan Masalah: 
-- 
-
+- Bagaimana mendeteksi penyakit pada daun cabai secara dini dan akurat?
+- Bagaimana membuat sistem yang dapat dengan mudah digunakan oleh petani untuk mendeteksi penyakit pada daun cabai?
 
 ### Ide Solusi
-Solusi : 
+Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk mengunggah foto daun cabai dan sistem akan mendeteksi penyakit apa yang diderita oleh daun cabai tersebut. Dengan demikian, petani dapat melakukan tindakan pencegahan atau pengobatan secepat mungkin untuk mencegah kerusakan lebih lanjut pada tanaman cabai mereka.
 
 #### Analisis Kompetitor
 
