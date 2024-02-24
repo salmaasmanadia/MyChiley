@@ -39,7 +39,7 @@ Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk men
 | Jenis Produk | ???? |
 | Target Customer | ???? |
 | Key Competitive Advantage & Unique Value | ??? |
-
+<br>
 | Kelebihan | Kekurangan |
 | --- | --- |
 | + Dapat mendeteksi lebih banyak jenis tanaman | - Wide range of variants sehingga sulit mendeteksi macam-macam |
@@ -77,7 +77,7 @@ Petani Cabai
 | predictImage | fungsi untuk generate gambar dari unggahan user ke engine AI |
 | getPredict | fungsi untuk mendapatkan hasil dari generate gambar melalui engine AI|
 
-
+<br>
 5. Entity Relationship Diagram
 
 ![ERD](https://github.com/salmaasmanadia/MyChiley/assets/93851258/fab1a97f-25bd-4d6c-8582-e7b0e24b41a3)
