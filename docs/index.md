@@ -30,6 +30,21 @@ Rumusan Masalah:
 Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk mengunggah foto daun cabai dan sistem akan mendeteksi penyakit apa yang diderita oleh daun cabai tersebut. Dengan demikian, petani dapat melakukan tindakan pencegahan atau pengobatan secepat mungkin untuk mencegah kerusakan lebih lanjut pada tanaman cabai mereka.
 
 #### Analisis Kompetitor
+#### Agrio (Mobile App)
+
+| Kompetitor 1 | Agrio |
+| --- | --- |
+| Nama Produk | Agrio |
+| Jenis Kompetitor | Indirect/direct??? |
+| Jenis Produk | ???? |
+| Target Customer | ???? |
+| Key Competitive Advantage & Unique Value | ??? |
+
+| Kelebihan | Kekurangan |
+| --- | --- |
+| + Dapat mendeteksi lebih banyak jenis tanaman | - Wide range of variants sehingga sulit mendeteksi macam-macam |
+| + Terdapat fitur monitoring lahan | -  |
+| + Ada fitur diagnosis & saran treatment | -  |
 
 
 
