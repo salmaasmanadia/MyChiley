@@ -1,0 +1,8 @@
+# Direktori yang ingin diabaikan
+node_modules/
+coverage/
+
+# Berkas yang ingin diabaikan
+.env
+.DS_Store
+*.log
