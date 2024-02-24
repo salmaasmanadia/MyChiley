@@ -39,7 +39,7 @@ Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk men
 | Jenis Produk | ???? |
 | Target Customer | ???? |
 | Key Competitive Advantage & Unique Value | ??? |
-<br>
+<br></br>
 | Kelebihan | Kekurangan |
 | --- | --- |
 | + Dapat mendeteksi lebih banyak jenis tanaman | - Wide range of variants sehingga sulit mendeteksi macam-macam |
