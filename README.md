@@ -9,7 +9,7 @@ Aplikasi Web Deteksi Penyakit pada Daun Cabai
 ## 🥊 TechStack
 - Backend   : Python Flask
 - Frontend  : NextJS 
-- Model AI  :  
+- Model AI  : Densenet201 using tensorflow
 
 ## 🧰 Repository
 - Backend   : 
