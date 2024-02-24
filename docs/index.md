@@ -2,9 +2,9 @@
 
 | Jabatan | Nama | NIM |
 | --- | --- | --- |
-| Ketua | [Laily Medha Nur Ihsanti] | 20/456377/TK/50507 |
-| Anggota 1 | [Salma Asma Nadia] | 20/456846/TK/50670 |
-| Anggota 2 | [Daru Okta Buana]| 20/456850/TK/50674 |
+| Ketua | [Laily Medha Nur Ihsanti] | 21/474650/TK/52363 |
+| Anggota 1 | [Salma Asma Nadia] | 21/481008/TK/53088 |
+| Anggota 2 | [Daru Okta Buana]| 21/475397/TK/52480 |
 
 **Project Senior Project TI**
 
