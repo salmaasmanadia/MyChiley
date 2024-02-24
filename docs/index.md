@@ -29,7 +29,7 @@ Rumusan Masalah:
 ### Ide Solusi
 Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk mengunggah foto daun cabai dan sistem akan mendeteksi penyakit apa yang diderita oleh daun cabai tersebut. Dengan demikian, petani dapat melakukan tindakan pencegahan atau pengobatan secepat mungkin untuk mencegah kerusakan lebih lanjut pada tanaman cabai mereka.
 
-#### Analisis Kompetitor
+### Analisis Kompetitor
 #### Agrio (Mobile App)
 
 | Kompetitor 1 | Agrio |
