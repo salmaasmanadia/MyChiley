@@ -50,7 +50,7 @@ Petani Cabai
 
 3. Use Case Diagram
 
-![image]()
+![Use Case](https://github.com/salmaasmanadia/MyChiley/assets/93851258/edb7d6d2-1ec9-4004-a170-d22bece8b8bd)
 
 4. Functional Requirements
 
@@ -64,15 +64,16 @@ Petani Cabai
 
 5. Entity Relationship Diagram
 
-![image]()
+![ERD](https://github.com/salmaasmanadia/MyChiley/assets/93851258/fab1a97f-25bd-4d6c-8582-e7b0e24b41a3)
 
 6. Low-fidelity
 
-![image]()
+![LoFi](https://github.com/salmaasmanadia/MyChiley/assets/93851258/2cb8f54b-9f99-4b81-80f2-799ba5c159df)
 
 7. Gantt-Chart pengerjaan 1 semester
 
-![image]()
+![image](https://github.com/salmaasmanadia/MyChiley/assets/93851258/3650cd67-c6fa-4b32-a38b-c09259e198ff)
+
 
 
 
