@@ -1,4 +1,4 @@
-## Kelompok MyChiley
+## MyChiley
 
 | Jabatan | Nama | NIM |
 | --- | --- | --- |
@@ -22,12 +22,11 @@ Aplikasi web
 Latar Belakang: Cabai adalah salah satu komoditas penting di Indonesia dan banyak digunakan dalam berbagai masakan. Namun, produksi cabai sering terganggu oleh berbagai penyakit yang menyerang tanaman ini. Penyakit ini dapat merusak tanaman dan mengakibatkan gagal panen yang berdampak pada ekonomi. Oleh karena itu, deteksi dini penyakit pada tanaman cabai sangat penting.
 
 ### Rumusan Permasalahan
-Rumusan Masalah: 
 - Bagaimana mendeteksi penyakit pada daun cabai secara dini dan akurat?
 - Bagaimana membuat sistem yang dapat dengan mudah digunakan oleh petani untuk mendeteksi penyakit pada daun cabai?
 
 ### Ide Solusi
-Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk mengunggah foto daun cabai dan sistem akan mendeteksi penyakit apa yang diderita oleh daun cabai tersebut. Dengan demikian, petani dapat melakukan tindakan pencegahan atau pengobatan secepat mungkin untuk mencegah kerusakan lebih lanjut pada tanaman cabai mereka.
+MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk mengunggah foto daun cabai dan sistem akan mendeteksi penyakit apa yang diderita oleh daun cabai tersebut. Dengan demikian, petani dapat melakukan tindakan pencegahan atau pengobatan secepat mungkin untuk mencegah kerusakan lebih lanjut pada tanaman cabai mereka.
 
 ### Analisis Kompetitor
 #### Agrio (Mobile App)
@@ -35,10 +34,10 @@ Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk men
 | Kompetitor 1 | Agrio |
 | --- | --- |
 | Nama Produk | Agrio |
-| Jenis Kompetitor | Indirect/direct??? |
-| Jenis Produk | ???? |
-| Target Customer | ???? |
-| Key Competitive Advantage & Unique Value | ??? |
+| Jenis Kompetitor | Indirect |
+| Jenis Produk | 	Aplikasi Pendeteksi Penyakit Tanaman |
+| Target Customer | 	Petani, Pemilik Kebun, Pecinta Tanaman |
+| Key Competitive Advantage & Unique Value | Tidak perlu install native app karena dapat diakses via browser |
 
 <br>   
 
@@ -48,9 +47,45 @@ Solusi : MyChiley 🌶 adalah sebuah sistem yang memungkinkan pengguna untuk men
 | + Terdapat fitur monitoring lahan | -  |
 | + Ada fitur diagnosis & saran treatment | -  |
 
+#### Leaf Doctor (Mobile App)
+
+| Kompetitor 1 | Leaf Doctor |
+| --- | --- |
+| Nama Produk | Leaf Doctor |
+| Jenis Kompetitor | Indirect |
+| Jenis Produk | Aplikasi Pendeteksi Penyakit Tanaman |
+| Target Customer | Petani, Pemilik Kebun, Pecinta Tanaman |
+| Key Competitive Advantage & Unique Value | Tidak perlu install native app karena dapat diakses via browser |
+
+<br>   
+
+| Kelebihan | Kekurangan |
+| --- | --- |
+| + Memungkinkan interaksi langsung dengan pakar pertanian | - Tidak memiliki fitur monitoring lahan |
+| + Fitur diagnosis yang canggih |  |
+| + Informasi lebih lanjut tentang perawatan tanaman |  |
+
+#### Plantora (Mobile App)
+
+| Kompetitor 1 | Plantora |
+| --- | --- |
+| Nama Produk | Leaf Doctor |
+| Jenis Kompetitor | Indirect |
+| Jenis Produk | 	Aplikasi Pemeliharaan Tanaman|
+| Target Customer | 	Pemilik Kebun, Pecinta Tanaman |
+| Key Competitive Advantage & Unique Value | Tidak perlu install native app karena dapat diakses via browser |
+
+<br>   
+
+| Kelebihan | Kekurangan |
+| --- | --- |
+| + Fitur rekomendasi tanaman berdasarkan lokasi dan cuaca | - Tidak fokus pada deteksi penyakit tanaman |
+| + Informasi lengkap tentang perawatan tanaman | - Tidak memiliki fitur diagnosis penyakit tanaman |
+| + Komunitas yang aktif untuk berbagi pengalaman |  |
+
 
 ### Metodologi
-Metodologi: Agile
+Metodologi: Agile Kanban
 Alasan: Memungkinkan untuk pengembangan iteratif dan responsif terhadap perubahan. Dalam konteks aplikasi pemindaian penyakit daun cabai, ini mungkin memungkinkan untuk pengujian dan iterasi berulang pada algoritma pemindaian untuk meningkatkan akurasi dan kinerja.
 
 
